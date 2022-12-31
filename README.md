@@ -7,6 +7,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=evandrocoan&count_private=true&show_icons=true&include_all_commits=true&card_width=400px" alt="evandrocoan" /></td>
   </tr>
   <tr>
-    <td><a href="https://stackoverflow.com/users/4934640/user"><img src="https://so-stats-kurt-liao.vercel.app/api?user=4934640&theme=default" alt="evandrocoan" /></a></td>
+    <td><a href="https://stackoverflow.com/users/4934640/user"><img src="https://so-stats-kurt-liao.vercel.app/api?user=4934640&theme=azure" alt="evandrocoan" /></a></td>
   </tr>
 </table>
