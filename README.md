@@ -4,7 +4,7 @@
     <td rowspan="3"><a href="https://github.com/evandrocoan?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrocoan&count_private=true&show_icons=true&langs_count=10&exclude_repo=MultiModServer" alt="evandrocoan" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://evandroforks.github.io/github-activity/?user=evandrocoan"><img src="https://github-readme-stats.vercel.app/api?username=evandrocoan&count_private=true&show_icons=true&include_all_commits=true&card_width=400px" alt="evandrocoan" /></a></td>
+    <td><a href="https://github.com/search?q=user%3Aevandrocoan+user%3Aevandrocoan"><img src="https://github-readme-stats.vercel.app/api?username=evandrocoan&count_private=true&show_icons=true&include_all_commits=true&card_width=400px" alt="evandrocoan" /></a></td>
   </tr>
   <tr>
     <td><a href="https://stackoverflow.com/users/4934640/user"><img src="https://so-stats-kurt-liao.vercel.app/api?user=4934640&theme=azure" alt="evandrocoan" /></a></td>
